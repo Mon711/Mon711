@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mon711
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to interact with beginners or amateurs in Python
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to interact with Computer Science Enthusiasts
 - 📫 How to reach me: mrinalsood711@gmail.com
 
 <!---
