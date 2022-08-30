@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mon711
+- 👋 Hi, I’m @Mrinal711
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to interact with Computer Science Enthusiasts
